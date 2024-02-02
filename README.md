@@ -23,7 +23,7 @@ function ver (){
 }
 ````
 ## Enlaces
-[Ir a la página 2](página2.md)
+[Ir a comandos básicos de git](comandosgit.md)
 ## imagenes 
 [pantallo de imagen markdown](markdownpantallazo.png)
 ## Línea horizontal 
